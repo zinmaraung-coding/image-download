@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "869612970736",
+    "firebase_url": "https://fir-app-dee03-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-dee03",
+    "storage_bucket": "fir-app-dee03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869612970736:android:ba16112afe144cc7add835",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIksWt78eiZcyW9MnO2kO9ElP-YyqsruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
